@@ -107,6 +107,5 @@ production/
 
 ## Author
 
-Antara Rane
-
+Antara Ganesh Rane
 Created as part of the Hack Club Hackpad program.
